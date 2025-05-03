@@ -33,3 +33,27 @@
 > int value = pensa.Next(minInt, maxInt + 1); // incluye el tope
 
 > double pensant = (double)value / precision;
+
+-------------------------------------------------------------------------------
+
+📎Como debloqueo xopa1 y xopa5?
+
+📎lock (xopa1)
+
+📎lock (xopa5) {
+
+📎Console.WriteLine($"menjant: {menjant}");
+
+📎Thread.Sleep((int)(menjant * 1000)); // Convertir a segons
+
+📎Console.WriteLine("menja finalitzat"); }
+
+📎fam = false;
+
+📎lock (xopa1)
+
+📎lock (xopa5) 
+
+> Buena pregunta. En C#, cuando usas lock(obj), se adquiere un bloqueo sobre obj durante el bloque de código { ... }.
+
+> Pero el desbloqueo ocurre automáticamente cuando el flujo sale del lock—no necesitas desbloquearlo manualmente.
