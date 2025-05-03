@@ -57,3 +57,13 @@
 > Buena pregunta. En C#, cuando usas lock(obj), se adquiere un bloqueo sobre obj durante el bloque de código { ... }.
 
 > Pero el desbloqueo ocurre automáticamente cuando el flujo sale del lock—no necesitas desbloquearlo manualmente.
+
+-------------------------------------------------------------------------------
+
+📎Como hago que cada hilo tenga su propio color?
+
+> Como los hilos se ejecutan en paralelo, puede que se mezclen las líneas en consola si escriben al mismo tiempo. Para evitarlo, puedes usar un lock alrededor de los Console.WriteLine, así:
+
+> static readonly object consolaLock = new object();
+
+> lock (consolaLock) { }
