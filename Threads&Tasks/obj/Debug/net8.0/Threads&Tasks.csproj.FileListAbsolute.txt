@@ -1,0 +1,14 @@
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\bin\Debug\net8.0\Threads&Tasks.exe
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\bin\Debug\net8.0\Threads&Tasks.deps.json
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\bin\Debug\net8.0\Threads&Tasks.runtimeconfig.json
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\bin\Debug\net8.0\Threads&Tasks.dll
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\bin\Debug\net8.0\Threads&Tasks.pdb
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\Threads&Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\Threads&Tasks.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\Threads&Tasks.AssemblyInfo.cs
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\Threads&Tasks.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\Threads&Tasks.dll
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\refint\Threads&Tasks.dll
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\Threads&Tasks.pdb
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\Threads&Tasks.genruntimeconfig.cache
+C:\Users\isard\source\repos\Tema5\Threads&Tasks\obj\Debug\net8.0\ref\Threads&Tasks.dll
